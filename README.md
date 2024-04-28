@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! Meu nome é Renata! 
+
+Sou bacharel em Ciências Contábeis e iniciei uma nova graduação em Análise e Desenvolvimento de Sistemas em 2024.
+
+
 
 <!--
 **RenataRemour/RenataRemour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
