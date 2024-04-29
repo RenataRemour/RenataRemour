@@ -2,7 +2,7 @@
 
 🧾 Bacharel em Ciências Contábeis
 💼 Assistente Contábil
-👩‍🎓 Estudando Análise e Desenvolvimento no IFSC/SC
+👩‍🎓 Estudando Análise e Desenvolvimento no IFSC/São José
 
 
 <picture>
