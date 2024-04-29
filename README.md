@@ -1,7 +1,8 @@
 ### Olá! Meu nome é Renata! 
 
-Sou bacharel em Ciências Contábeis e iniciei uma nova graduação em Análise e Desenvolvimento de Sistemas em 2024.
-
+🧾 Bacharel em Ciências Contábeis
+💼 Assistente Contábil
+👩‍🎓 Estudando Análise e Desenvolvimento no IFSC/SC
 
 
 <!--
