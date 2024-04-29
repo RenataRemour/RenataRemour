@@ -5,6 +5,17 @@
 👩‍🎓 Estudando Análise e Desenvolvimento no IFSC/SC
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RenataRemour&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RenataRemour&show_icons=true"
+    media="(prefers-color-scheme: default), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenataRemour&show_icons=true" />
+</picture>
 <!--
 **RenataRemour/RenataRemour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
